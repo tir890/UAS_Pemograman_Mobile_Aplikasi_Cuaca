@@ -93,7 +93,7 @@ com.example.cuacaku
 
 | Splash Screen | Izin Lokasi | Dashboard | AI Recomendation |
 |:-------------:|:-----------:|:-----------:|:-------------:|
-| <img src="screenshots/splash.png" width="180"/> | <img src="screenshots/location.png" width="180"/> | <img src="screenshots/sunny.png" width="180"/> | <img src="screenshots/cloudy.png" width="180"/> |
+| ![satu](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/splash%20screen.jpeg) | ![dua](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/izinkan%20lokasi.jpeg) | ![tiga](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/dashboard.jpeg) | ![empat](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/ai%20rekomendasi.jpeg) |
 
 ---
 
