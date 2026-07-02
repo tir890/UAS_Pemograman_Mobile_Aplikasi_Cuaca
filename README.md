@@ -89,10 +89,11 @@ com.example.cuacaku
 
 # 📱 Tangkapan Layar (Screenshots)
 
-| Splash Screen | Permission Lokasi | Dashboard | | Keterangan Cuaca AI |
-|:--------------:|:----------------:|:---------------:| |:---------------:|
-| <img src="screenshots/splash.png" width="220"/> | <img src="screenshots/location.png" width="220"/> | <img src="screenshots/sunny.png" width="220"/> | | <img src="screenshots/sunny.png" width="220"/> |
+# 📱 Tangkapan Layar (Screenshots)
 
+| Splash Screen | Izin Lokasi | Dashboard | AI Recomendation |
+|:-------------:|:-----------:|:-----------:|:-------------:|
+| <img src="screenshots/splash.png" width="180"/> | <img src="screenshots/location.png" width="180"/> | <img src="screenshots/sunny.png" width="180"/> | <img src="screenshots/cloudy.png" width="180"/> |
 
 ---
 
