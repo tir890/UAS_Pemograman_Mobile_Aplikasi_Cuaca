@@ -89,8 +89,6 @@ com.example.cuacaku
 
 # 📱 Tangkapan Layar (Screenshots)
 
-# 📱 Tangkapan Layar (Screenshots)
-
 | Splash Screen | Izin Lokasi | Dashboard | AI Recomendation |
 |:-------------:|:-----------:|:-----------:|:-------------:|
 | ![satu](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/splash%20screen.jpeg) | ![dua](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/izinkan%20lokasi.jpeg) | ![tiga](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/dashboard.jpeg) | ![empat](https://github.com/tir890/UAS_Pemograman_Mobile_Aplikasi_Cuaca/blob/57966e3b1e359b69a4e5323ac1e6f830e4b025b0/ai%20rekomendasi.jpeg) |
